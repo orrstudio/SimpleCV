@@ -10,6 +10,7 @@ html[data-theme='dark'] {
   --secondary-color: #ffffff;
   --bg-color: #202020;
 }
+
 body {
   background-color: var(--bg-color);
 }
@@ -28,9 +29,11 @@ h2 {
   margin-top: 0;
   margin-bottom: 1em;
 }
+
 h3 {
   color: var(--primary-color);
 }
+
 a {
   color: var(--primary-color);
 }
@@ -44,6 +47,7 @@ section {
   max-width: 900px;
   margin: 0 auto;
 }
+
 .contacts {
   margin-bottom: 2em;
 }
@@ -74,7 +78,6 @@ section {
   }
 }
 
-
 .theme-switch-wrapper{
   position: absolute;
   right: 0;
@@ -91,6 +94,7 @@ section {
   .theme-switch__label{
     margin-left: 10px;
   }
+
 }
 .theme-switch {
   display: inline-block;
