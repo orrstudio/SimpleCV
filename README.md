@@ -6,4 +6,4 @@ This CV shows that I can:
 * use git and GtiHub ;)
 * write readme files using MarkDown
 
-Here is [live demo](https://orr888.github.io/simple-cv/)
+Here is [live demo](https://orrstudio.github.io/SimpleCV)
